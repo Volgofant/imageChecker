@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="MainTest" time="1,642.188" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\viktor.nenashev\IdeaProjects\CheckAllProductsImage\target\test-classes;C:\Users\viktor.nenashev\IdeaProjects\CheckAllProductsImage\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\github\bonigarcia\webdrivermanager\3.0.0\webdrivermanager-3.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-lang3\3.7\commons-lang3-3.7.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\rauschig\jarchivelib\0.8.0\jarchivelib-0.8.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-compress\1.14\commons-compress-1.14.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\jsoup\jsoup\1.11.3\jsoup-1.11.3.jar;"/>
+    <property name="java.vm.vendor" value="JetBrains s.r.o"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://www.jetbrains.com/"/>
+    <property name="user.timezone" value="GMT+03:00"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.4\jbr\bin"/>
+    <property name="sun.java.command" value="C:\Windows\Temp\surefire3662264463055085532\surefirebooter17054347087455795646.jar C:\Windows\Temp\surefire3662264463055085532 2019-12-24T03-02-04_520-jvmRun1 surefire7261351498705559225tmp surefire_05068915838378358983tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\viktor.nenashev\IdeaProjects\CheckAllProductsImage\target\test-classes;C:\Users\viktor.nenashev\IdeaProjects\CheckAllProductsImage\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Windows\system32\config\systemprofile\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\io\github\bonigarcia\webdrivermanager\3.0.0\webdrivermanager-3.0.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-lang3\3.7\commons-lang3-3.7.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Windows\system32\config\systemprofile\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\rauschig\jarchivelib\0.8.0\jarchivelib-0.8.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache\commons\commons-compress\1.14\commons-compress-1.14.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\jsoup\jsoup\1.11.3\jsoup-1.11.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.4\jbr"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\viktor.nenashev\IdeaProjects\CheckAllProductsImage"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire3662264463055085532\surefirebooter17054347087455795646.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.4+10-b304.77"/>
+    <property name="user.name" value="PMR164$"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Windows\system32\config\systemprofile\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://youtrack.jetbrains.com"/>
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\"/>
+    <property name="java.version" value="11.0.4"/>
+    <property name="user.dir" value="C:\Users\viktor.nenashev\IdeaProjects\CheckAllProductsImage"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.4\jbr\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\apache-maven-3.6.1/bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.4\jbr/bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.4\jbr/bin;C:\Windows\System32;C:\Program Files\Git\cmd;;."/>
+    <property name="java.vendor" value="JetBrains s.r.o"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vm.version" value="11.0.4+10-b304.77"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="allProductsShouldHaveImage" classname="MainTest" time="1,642.124">
+    <failure type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError
+	at MainTest.allProductsShouldHaveImage(MainTest.java:54)
+]]></failure>
+    <system-out><![CDATA[20310
+КОЛИЧЕСТВО БИТЫХ КАРТИНОК : 56
+https://static-shop.westwing.ru/RUQ19OGO330377/s/zeus-ogogo-863771-819287-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO328703/s/adel-white-ogogo-088771-819285-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO335926/s/silas-ogogo-456771-819310-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO343665/s/winground-ares-ogogo-564771-819329-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO348732/s/peterhof-lounge-4-ogogo-634771-819348-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO348657/s/cloud-ogogo-548771-819345-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO352393/s/peterhof-lounge-ogogo-585771-819355-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO354911/s/barbara-mango-ogogo-573771-819360-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO355290/s/odelise-togo-ogogo-727771-819367-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO357709/s/peterhof-lounge-5-ogogo-424771-819378-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO332583/s/italia-ogogo-555771-819293-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO330982/s/visconte-bingo-ogogo-788771-819290-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO332832/s/visconte-togo-ogogo-437771-819299-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO334807/s/peterhof-3-ogogo-353771-819307-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO333861/s/silas-ogogo-123771-819303-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO342529/s/loa-ogogo-036771-819323-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO338149/s/chesterfield-lounge-ogogo-625771-819314-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO340765/s/meggi-ancor-ogogo-446771-819320-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO344389/s/peterhof-lounge-ogogo-385771-819337-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO345867/s/wing-italia-ogogo-245771-819339-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO356908/s/loa-lounge-ogogo-906771-819369-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO358905/s/murom-lounge-ogogo-856771-819382-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO362930/s/peterhof-lounge-ogogo-154771-819403-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO373672/s/teoxenne-ogogo-947771-819435-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO376115/s/jazz-ogogo-074771-819455-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO378052/s/peterhof-lounge-5-ogogo-324771-819460-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO397480/s/visconte-bingo-ogogo-298771-819541-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO398674/s/italia-buk-ogogo-765771-819545-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO362795/s/peterhof-lounge-ogogo-685771-819398-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO361326/s/teoxenne-ogogo-937771-819392-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO365960/s/peterhof-3-ogogo-453771-819410-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO371266/s/barbara-buk-ogogo-806771-819414-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO372995/s/zeus-ogogo-162771-819431-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO372109/s/california-ankor-ogogo-164771-819423-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO373761/s/wing-ankor-ogogo-252771-819443-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO375299/s/winground-lounge-ogogo-354771-819446-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO379270/s/cloud-ogogo-068771-819466-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO380808/s/murom-lounge-ogogo-266771-819469-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO381077/s/peterhof-lounge-ogogo-485771-819478-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO381584/s/italia-ogogo-305771-819488-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO381310/s/cloud-ogogo-848771-819483-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO382621/s/zeus-ogogo-832771-819492-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO383026/s/silas-ogogo-156771-819496-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO385559/s/jazz-ogogo-406771-819500-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO385624/s/wing-ogogo-793771-819508-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO386174/s/jazz-ogogo-795771-819515-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO386462/s/peterhof-lounge-ogogo-254771-819523-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO387460/s/peterhof-lounge-2-ogogo-544771-819526-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO388264/s/meggi-ancor-ogogo-893771-819530-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO394697/s/vermont-ep-ogogo-417771-819537-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO388758/s/odelise-ogogo-886771-819533-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO401381/s/odelise-togo-ogogo-218771-819549-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO401458/s/silenos-ogogo-114771-819550-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO404391/s/peterhof-3-ogogo-762771-819554-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO404778/s/cloud-ogogo-858771-819562-related.jpg
+https://static-shop.westwing.ru/RUQ19OGO408005/s/italia-buk-ogogo-314771-819566-related.jpg
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}) on port 37496
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577145727.428][WARNING]: This version of ChromeDriver has not been tested with Chrome version 79.
+дек. 24, 2019 3:02:08 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>

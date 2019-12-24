@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1,642.188 s <<< FAILURE! - in MainTest
+MainTest.allProductsShouldHaveImage  Time elapsed: 1,642.124 s  <<< FAILURE!
+java.lang.AssertionError
+	at MainTest.allProductsShouldHaveImage(MainTest.java:54)
+
